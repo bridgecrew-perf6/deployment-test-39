@@ -22,3 +22,13 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Docker volumes
+.docker/volumes
+
+# Ignore .env file for security
+.env
+
+# Misc
+.DS_Store
+.idea

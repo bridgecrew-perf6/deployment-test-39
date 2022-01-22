@@ -189,10 +189,11 @@ DEPENDENCIES
   rspec-json_expectations
   rspec-rails (~> 5.0.0)
   shoulda-matchers (~> 4.0)
+  tzinfo
   tzinfo-data
 
 RUBY VERSION
    ruby 2.7.4p191
 
 BUNDLED WITH
-   2.2.30
+   2.3.4
